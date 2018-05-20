@@ -1,2 +1,2 @@
 # -backstageManager
-  ![Image text](https://raw.github.com/fj1203/repositpry/master/-backstageManager/img-folder/11.png)  
+  ![Image text](https://github.com/fj1203/-backstageManager/blob/master/img-folder/11.png)  
